@@ -1,5 +1,6 @@
 # dependencies
 /node_modules
-/android
-/ios
+android/.gradle/
+android/.idea/
+ios/Pods/
 /vendor
