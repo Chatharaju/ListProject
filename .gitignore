@@ -3,4 +3,4 @@
 android/.gradle/
 android/.idea/
 ios/Pods/
-/vendor
+/vendor/cache

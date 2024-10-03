@@ -1,0 +1,18 @@
+current directory: /Users/vinaychatharaju/Documents/HomeProjects/ABCFitnes/ListProject/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/vinaychatharaju/Documents/HomeProjects/ABCFitnes/ListProject/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241002-50817-gpcc8g sitelibdir\=./.gem.20241002-50817-gpcc8g clean
+
+current directory: /Users/vinaychatharaju/Documents/HomeProjects/ABCFitnes/ListProject/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241002-50817-gpcc8g sitelibdir\=./.gem.20241002-50817-gpcc8g
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/vinaychatharaju/Documents/HomeProjects/ABCFitnes/ListProject/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241002-50817-gpcc8g sitelibdir\=./.gem.20241002-50817-gpcc8g install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20241002-50817-gpcc8g
+
+current directory: /Users/vinaychatharaju/Documents/HomeProjects/ABCFitnes/ListProject/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241002-50817-gpcc8g sitelibdir\=./.gem.20241002-50817-gpcc8g clean

@@ -1,0 +1,16 @@
+current directory: /Users/vinaychatharaju/Documents/HomeProjects/ABCFitnes/ListProject/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/vinaychatharaju/Documents/HomeProjects/ABCFitnes/ListProject/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241002-50817-yz5pwq sitelibdir\=./.gem.20241002-50817-yz5pwq clean
+
+current directory: /Users/vinaychatharaju/Documents/HomeProjects/ABCFitnes/ListProject/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241002-50817-yz5pwq sitelibdir\=./.gem.20241002-50817-yz5pwq
+make: Nothing to be done for `all'.
+
+current directory: /Users/vinaychatharaju/Documents/HomeProjects/ABCFitnes/ListProject/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241002-50817-yz5pwq sitelibdir\=./.gem.20241002-50817-yz5pwq install
+
+current directory: /Users/vinaychatharaju/Documents/HomeProjects/ABCFitnes/ListProject/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241002-50817-yz5pwq sitelibdir\=./.gem.20241002-50817-yz5pwq clean
