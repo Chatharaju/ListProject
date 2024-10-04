@@ -22,10 +22,6 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 import LandingPage from './src/containers/landingPage';
 
-type SectionProps = PropsWithChildren<{
-  title: string;
-}>;
-
 function App(): React.JSX.Element {
   const isDarkMode = useColorScheme() === 'dark';
 
@@ -34,7 +30,7 @@ function App(): React.JSX.Element {
   };
 
   return (
-    <SafeAreaView style={backgroundStyle}>
+    <SafeAreaView>
       <StatusBar
         barStyle={isDarkMode ? 'light-content' : 'dark-content'}
         backgroundColor={backgroundStyle.backgroundColor}
